@@ -8,6 +8,8 @@ Tech: React, Node, MongoDB
 
 This section will link out to the repos where the actual code implementing the site/services reside.
 
+- [Number Pool Backend API](https://github.com/rgroves/number-pool-api)
+
 ## Learning Log
 
 I want to keep a log of my thoughts, queries, and things I've learned while building this project out. I will do that in [LearningLog.md](LearningLog.md)
