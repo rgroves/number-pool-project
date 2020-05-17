@@ -12,6 +12,10 @@ This section will link out to the repos where the actual code implementing the s
 
 I want to keep a log of my thoughts, queries, and things I've learned while building this project out. I will do that in [LearningLog.md](LearningLog.md)
 
+## To Do List
+
+As I work there will be items I'll probably want/need to do at a later time. I'll be keeping track of those here: [TODO](TODO.md)
+
 ## MVP Requirements
 
 - Allow visitors to create a user account with email & password
