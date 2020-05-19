@@ -30,3 +30,18 @@
   - Downloaded mongo shell for Windows.
   - Unzipped archive and add mongo shell's <unzipped directory>/bin to your \$PATH variable
   - Tested connection - successful!
+
+# Creating backend API
+
+- Created new repo for the backend api (noted in [README](README.md)) and cloned down to my local environment
+- Installed express
+- Installed cors - need to learn more about cors and best practices for setup/config
+- Installed body-parser - for easy handling of JSON
+- Installed mongodb
+- Installed dotenv - for managing enironment variable configurations
+
+- Create .env file - store config here: app port, db connection URI, etc.
+
+- Need to think about routes; what do I need to start and KISS:
+  - user/create - (POST) Add a user/password to the DB
+  - user/authenticate - (GET) check user/password for sign-in
